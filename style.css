@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e4eefd;
+}
+
+#about {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#galery {
+  background-color: #e4eefd;
+  padding: auto;
+  border-image: 3px solid rgb(0, 174, 255);
+}
